@@ -1,227 +1,0 @@
-TMy App
-v7
-r0
-t293049050.525567
-cCheck dependencies
-cProcessInfoPlistFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/Info.plist" My_App-Info.plist
-cCompileXIB "/Users/timgrantdavies/Desktop/My App/MainWindow.xib"
-cCpResource "build/Debug-iphonesimulator/My App.app/bg.png" bg.png
-cProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-enncjpjecwoondejifyzlmyxgbxz/My_App_Prefix.pch.gch My_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/main.o" "/Users/timgrantdavies/Desktop/My App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/My_AppAppDelegate.o" "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App" normal i386
-cGenerateDSYMFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app.dSYM" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App"
-cTouch "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004BC03DFF0000000000000110
-t1270889983
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BB70A760000000000279720
-t1270286966
-s2594592
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BB70A830000000000277510
-t1270286979
-s2585872
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BB70A5F0000000000001466
-t1270286943
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004BB9113C00000000000009CD
-t1270419772
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004BB9124900000000022C20B0
-t1270420041
-s36446384
-
-N/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.h
-c000000004BC75AA1000000000000013E
-t1271356065
-s318
-i<UIKit/UIKit.h>
-
-N/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m
-c000000004BC75AA10000000000000212
-t1271356065
-s530
-i"My_AppAppDelegate.h"
-
-N/Users/timgrantdavies/Desktop/My App/MainWindow.xib
-c000000004BC75B55000000000000597A
-t1271356245
-s22906
-
-N/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch
-c000000004BC75AA100000000000000B5
-t1271356065
-s181
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/timgrantdavies/Desktop/My App/bg.png
-c000000004BC75A8A0000000000019E18
-t1271356042
-s106008
-
-N/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app
-t1271356250
-s238
-
-N/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app.dSYM
-t1271356250
-s102
-
-N/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/Info.plist
-t1271356248
-s587
-
-N/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/MainWindow.nib
-t1271356248
-s1751
-
-N/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App
-t1271356250
-s18264
-
-N/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/PkgInfo
-t1271356248
-s8
-
-N/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/bg.png
-t1271356248
-s106008
-
-N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/My App.LinkFileList
-c000000004BC75B5800000000000000F9
-t1271356248
-s249
-
-N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/My_AppAppDelegate.o
-t1271356250
-s42668
-
-N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/main.o
-t1271356250
-s5940
-
-N/Users/timgrantdavies/Desktop/My App/main.m
-c000000004BC75AA10000000000000162
-t1271356065
-s354
-i<UIKit/UIKit.h>
-
-N/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-enncjpjecwoondejifyzlmyxgbxz/My_App_Prefix.pch.gch
-t1271356249
-s15154192
-
-NMy_App-Info.plist
-c000000004BC75AA1000000000000038D
-t1271356065
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies293049048#293049048#0(0"0(0#1#0"7947009927035180032#0"0#
-
-CCompileC "build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/My_AppAppDelegate.o" "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s293049050.037623
-e293049050.189239
-r1
-xCompileC
-xbuild/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/My_AppAppDelegate.o
-x/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m293049050#293049050#0(0"0(0#0#64"/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m4300739032#1871"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/DerivedSources/i386" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/DerivedSources" -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-enncjpjecwoondejifyzlmyxgbxz/My_App_Prefix.pch -c "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/My_AppAppDelegate.o"0#
-
-CCompileC "build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/main.o" "/Users/timgrantdavies/Desktop/My App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s293049050.036562
-e293049050.173979
-r1
-xCompileC
-xbuild/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/main.o
-x/Users/timgrantdavies/Desktop/My App/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@51"Compile /Users/timgrantdavies/Desktop/My App/main.m293049050#293049050#0(0"0(0#0#43"/Users/timgrantdavies/Desktop/My App/main.m4300739032#1837"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/DerivedSources/i386" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/DerivedSources" -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-enncjpjecwoondejifyzlmyxgbxz/My_App_Prefix.pch -c "/Users/timgrantdavies/Desktop/My App/main.m" -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/timgrantdavies/Desktop/My App/MainWindow.xib"
-s293049048.474231
-e293049048.943292
-r1
-xCompileXIB
-x/Users/timgrantdavies/Desktop/My App/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib293049048#293049048#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#51"/Users/timgrantdavies/Desktop/My App/MainWindow.xib4300739032#479"    cd "/Users/timgrantdavies/Desktop/My App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/MainWindow.nib" "/Users/timgrantdavies/Desktop/My App/MainWindow.xib"0#
-
-CCpResource "build/Debug-iphonesimulator/My App.app/bg.png" bg.png
-s293049048.475837
-e293049048.494608
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/My App.app/bg.png
-xbg.png
-lSLF07#2@11"Copy bg.png293049048#293049048#0(0"0(0#0#43"/Users/timgrantdavies/Desktop/My App/bg.png4300739032#449"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/timgrantdavies/Desktop/My App/bg.png" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app"0#
-
-CGenerateDSYMFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app.dSYM" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App"
-s293049050.403423
-e293049050.473598
-r1
-xGenerateDSYMFile
-x/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app.dSYM
-x/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App
-lSLF07#2@110"GenerateDSYMFile "build/Debug-iphonesimulator/My App.app.dSYM" "build/Debug-iphonesimulator/My App.app/My App"293049050#293049050#0(0"0(0#0#82"/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App4300739032#380"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App" -o "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app.dSYM"0#
-
-CLd "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App" normal i386
-s293049050.189333
-e293049050.403324
-r1
-xLd
-x/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App
-xnormal
-xi386
-lSLF07#2@87"Link /Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App293049050#293049050#0(0"0(0#0#0"4300739032#857"    cd "/Users/timgrantdavies/Desktop/My App"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator" -filelist "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/Objects-normal/i386/My App.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/My App"0#
-
-CProcessInfoPlistFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/Info.plist" My_App-Info.plist
-s293049048.424839
-e293049048.474103
-r1
-xProcessInfoPlistFile
-x/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/Info.plist
-xMy_App-Info.plist
-lSLF07#2@25"Process My_App-Info.plist293049048#293049048#0(0"0(0#0#54"/Users/timgrantdavies/Desktop/My App/My_App-Info.plist7811904093213978624#476"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility My_App-Info.plist -genpkginfo "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app/Info.plist"0#
-
-CProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-enncjpjecwoondejifyzlmyxgbxz/My_App_Prefix.pch.gch My_App_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s293049048.943484
-e293049050.036390
-r1
-xProcessPCH
-x/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-enncjpjecwoondejifyzlmyxgbxz/My_App_Prefix.pch.gch
-xMy_App_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile My_App_Prefix.pch293049048#293049050#0(0"0(0#0#54"/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch4300739032#1730"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/DerivedSources/i386" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphonesimulator/My App.build/DerivedSources" -c "/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch" -o /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-enncjpjecwoondejifyzlmyxgbxz/My_App_Prefix.pch.gch0#
-
-CTouch "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app"
-s293049050.473696
-e293049050.525515
-r1
-xTouch
-x/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app
-lSLF07#2@81"Touch /Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app293049050#293049050#0(0"0(0#0#0"4300739032#277"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/timgrantdavies/Desktop/My App/build/Debug-iphonesimulator/My App.app"0#
-

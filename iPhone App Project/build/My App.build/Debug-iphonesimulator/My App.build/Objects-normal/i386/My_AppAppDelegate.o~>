@@ -1,5 +1,0 @@
-In file included from /Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m:9:
-/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.h:17: error: can not use an object as parameter to a method
-/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m: In function '-[My_AppAppDelegate Alert:]':
-/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m:37: warning: conflicting types for '-(void)Alert:(id)sender'
-/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.h:17: warning: previous declaration of '-(void)Alert:(UIButton)sender'
