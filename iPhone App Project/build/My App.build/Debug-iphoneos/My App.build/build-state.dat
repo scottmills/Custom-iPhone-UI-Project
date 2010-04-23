@@ -1,0 +1,647 @@
+TMy App
+v7
+r0
+t293054552.939091
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/My App.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/Info.plist" My_App-Info.plist
+cCompileXIB "/Users/timgrantdavies/Desktop/My App/MainWindow.xib"
+cCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/bg.png" bg.png
+cCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ActionButton.png" ActionButton.png
+cCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/back.png" back.png
+cCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/nav.png" nav.png
+cProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cfjwtdpyeltqjeegktqvmyjdgsvo/My_App_Prefix.pch.gch My_App_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-handtpsdermwjfajijsqhkqlnquf/My_App_Prefix.pch.gch My_App_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/main.o" "/Users/timgrantdavies/Desktop/My App/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My_AppAppDelegate.o" "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App" normal armv6
+cCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/main.o" "/Users/timgrantdavies/Desktop/My App/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My_AppAppDelegate.o" "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App" normal armv7
+cCreateUniversalBinary "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app.dSYM" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App"
+cProcessProductPackaging "/Users/timgrantdavies/Library/MobileDevice/Provisioning Profiles/7CBACC5B-FEE5-4DBE-85A2-DDD2E5797F51.mobileprovision" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision"
+cTouch "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent"
+cCodeSign "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004BBBFA370000000000000110
+t1270610487
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BAA718800000000000001A9
+t1269461384
+s425
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BAA718800000000000001E5
+t1269461384
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB717360000000000546790
+t1270290230
+s5531536
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB719560000000000623920
+t1270290774
+s6437152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB7191F0000000000001466
+t1270290719
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004BB7D7DD000000000025E4D0
+t1270339549
+s2483408
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9128A00000000000009CD
+t1270420106
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9138E0000000002992270
+t1270420366
+s43590256
+
+N/Users/timgrantdavies/Desktop/My App/ActionButton.png
+c000000004BC75CB7000000000000102E
+t1271356599
+s4142
+
+N/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.h
+c000000004BC7704F000000000000015E
+t1271361615
+s350
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m
+c000000004BC7704900000000000003A0
+t1271361609
+s928
+i"My_AppAppDelegate.h"
+
+N/Users/timgrantdavies/Desktop/My App/MainWindow.xib
+c000000004BC770790000000000008156
+t1271361657
+s33110
+
+N/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch
+c000000004BC75AA100000000000000B5
+t1271356065
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/Desktop/My App/back.png
+c000000004BC75C650000000000001129
+t1271356517
+s4393
+
+N/Users/timgrantdavies/Desktop/My App/bg.png
+c000000004BC75A8A0000000000019E18
+t1271356042
+s106008
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app
+t1271361718
+s476
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app.dSYM
+t1271361717
+s102
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ActionButton.png
+t1271361715
+s4279
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/Info.plist
+t1271361715
+s730
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/MainWindow.nib
+t1271361715
+s2991
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App
+t1271361717
+s49680
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/PkgInfo
+t1271361715
+s8
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ResourceRules.plist
+t1271361715
+s485
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/back.png
+t1271361715
+s4353
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/bg.png
+t1271361715
+s51701
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision
+t1271361717
+s7409
+
+N/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/nav.png
+t1271361715
+s15342
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent
+t1271361717
+s412
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App
+t1271361717
+s15144
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App.LinkFileList
+c000000004BC770B300000000000000ED
+t1271361715
+s237
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My_AppAppDelegate.o
+t1271361717
+s48476
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/main.o
+t1271361717
+s6436
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App
+t1271361717
+s15144
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App.LinkFileList
+c000000004BC770B300000000000000ED
+t1271361715
+s237
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My_AppAppDelegate.o
+t1271361717
+s48404
+
+N/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/main.o
+t1271361717
+s6420
+
+N/Users/timgrantdavies/Desktop/My App/main.m
+c000000004BC75AA10000000000000162
+t1271356065
+s354
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/Desktop/My App/nav.png
+c000000004BC75F390000000000004054
+t1271357241
+s16468
+
+N/Users/timgrantdavies/Library/MobileDevice/Provisioning Profiles/7CBACC5B-FEE5-4DBE-85A2-DDD2E5797F51.mobileprovision
+c000000004B6605CF0000000000001CF1
+t1264977359
+s7409
+
+N/Users/timgrantdavies/My App/ActionButton.png
+c000000004BC75CB7000000000000102E
+t1271356599
+s4142
+
+N/Users/timgrantdavies/My App/Classes/My_AppAppDelegate.h
+c000000004BC7704F000000000000015E
+t1271361615
+s350
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/My App/Classes/My_AppAppDelegate.m
+c000000004BC7704900000000000003A0
+t1271361609
+s928
+i"My_AppAppDelegate.h"
+
+N/Users/timgrantdavies/My App/MainWindow.xib
+c000000004BC770790000000000008156
+t1271361657
+s33110
+
+N/Users/timgrantdavies/My App/My_App_Prefix.pch
+c000000004BC75AA100000000000000B5
+t1271356065
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/My App/back.png
+c000000004BC75C650000000000001129
+t1271356517
+s4393
+
+N/Users/timgrantdavies/My App/bg.png
+c000000004BC75A8A0000000000019E18
+t1271356042
+s106008
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app
+t1271361752
+s476
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app.dSYM
+t1271361717
+s102
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/ActionButton.png
+t1271361715
+s4279
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/Info.plist
+t1271361715
+s730
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/MainWindow.nib
+t1271361715
+s2991
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/My App
+t1271361717
+s49680
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/PkgInfo
+t1271361715
+s8
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/ResourceRules.plist
+t1271361715
+s485
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/back.png
+t1271361715
+s4353
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/bg.png
+t1271361715
+s51701
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision
+t1271361717
+s7409
+
+N/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/nav.png
+t1271361715
+s15342
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App
+t1271361717
+s15144
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App.LinkFileList
+c000000004BC770B300000000000000ED
+t1271361715
+s237
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My_AppAppDelegate.o
+t1271361717
+s48476
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/main.o
+t1271361717
+s6436
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App
+t1271361717
+s15144
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App.LinkFileList
+c000000004BC770B300000000000000ED
+t1271361715
+s237
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My_AppAppDelegate.o
+t1271361717
+s48404
+
+N/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/main.o
+t1271361717
+s6420
+
+N/Users/timgrantdavies/My App/main.m
+c000000004BC75AA10000000000000162
+t1271356065
+s354
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/My App/nav.png
+c000000004BC75F390000000000004054
+t1271357241
+s16468
+
+N/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cbgthaexfjorgkbchsmngpgscqkc/My_App_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cfjwtdpyeltqjeegktqvmyjdgsvo/My_App_Prefix.pch.gch
+t1271361717
+s9799216
+
+N/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-gzaqwcijudpxczdswahxqzphnzvx/My_App_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-handtpsdermwjfajijsqhkqlnquf/My_App_Prefix.pch.gch
+t1271361717
+s10262064
+
+NMy_App-Info.plist
+c000000004BC770B300000000000003BF
+t1271361715
+s959
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293054550#293054550#0(0"0(0#1#0"4300739032#0"0#
+
+CCodeSign "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app"
+s293054550.818194
+e293054552.938957
+r1
+xCodeSign
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app
+o/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app: replacing existing signature
+lSLF07#2@42"CodeSign "build/Debug-iphoneos/My App.app"293054550#293054552#0(99"/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app: replacing existing signature0(0#0#68"/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app4300739032#660"    cd "/Users/timgrantdavies/Desktop/My App"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Tim Davies (74LE52P6QS)" "--resource-rules=/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ResourceRules.plist" --entitlements "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app"0#
+
+CCodeSign "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app"
+r0
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My_AppAppDelegate.o" "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293054517.152844
+e293054517.263124
+r1
+xCompileC
+xbuild/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My_AppAppDelegate.o
+x/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m293054517#293054517#0(0"0(0#0#64"/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m4300739032#1738"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources/armv6" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources" -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cfjwtdpyeltqjeegktqvmyjdgsvo/My_App_Prefix.pch -c "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My_AppAppDelegate.o"0#
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My_AppAppDelegate.o" "/Users/timgrantdavies/My App/Classes/My_AppAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/main.o" "/Users/timgrantdavies/Desktop/My App/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293054517.151735
+e293054517.241685
+r1
+xCompileC
+xbuild/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/main.o
+x/Users/timgrantdavies/Desktop/My App/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/timgrantdavies/Desktop/My App/main.m293054517#293054517#0(0"0(0#0#43"/Users/timgrantdavies/Desktop/My App/main.m4300739032#1704"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources/armv6" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources" -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cfjwtdpyeltqjeegktqvmyjdgsvo/My_App_Prefix.pch -c "/Users/timgrantdavies/Desktop/My App/main.m" -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/main.o" "/Users/timgrantdavies/My App/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My_AppAppDelegate.o" "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293054517.301582
+e293054517.376175
+r1
+xCompileC
+xbuild/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My_AppAppDelegate.o
+x/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m293054517#293054517#0(0"0(0#0#64"/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m4300739032#1738"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources/armv7" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources" -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-handtpsdermwjfajijsqhkqlnquf/My_App_Prefix.pch -c "/Users/timgrantdavies/Desktop/My App/Classes/My_AppAppDelegate.m" -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My_AppAppDelegate.o"0#
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My_AppAppDelegate.o" "/Users/timgrantdavies/My App/Classes/My_AppAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/main.o" "/Users/timgrantdavies/Desktop/My App/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293054517.241791
+e293054517.301470
+r1
+xCompileC
+xbuild/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/main.o
+x/Users/timgrantdavies/Desktop/My App/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/timgrantdavies/Desktop/My App/main.m293054517#293054517#0(0"0(0#0#43"/Users/timgrantdavies/Desktop/My App/main.m4300739032#1704"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources/armv7" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources" -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-handtpsdermwjfajijsqhkqlnquf/My_App_Prefix.pch -c "/Users/timgrantdavies/Desktop/My App/main.m" -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/main.o"0#
+
+CCompileC "build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/main.o" "/Users/timgrantdavies/My App/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/timgrantdavies/Desktop/My App/MainWindow.xib"
+s293054515.409300
+e293054515.914736
+r1
+xCompileXIB
+x/Users/timgrantdavies/Desktop/My App/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/timgrantdavies/Desktop/My App/MainWindow.xib:37: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.
+o/Users/timgrantdavies/Desktop/My App/MainWindow.xib:19: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.
+lSLF07#2@25"CompileXIB MainWindow.xib293054515#293054515#0(393"/* com.apple.ibtool.document.warnings *//Users/timgrantdavies/Desktop/My App/MainWindow.xib:37: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item./Users/timgrantdavies/Desktop/My App/MainWindow.xib:19: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.2(22@110"This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.293054515#18446744073709551615#0#0(6@51"/Users/timgrantdavies/Desktop/My App/MainWindow.xib293054457#37#0#37#0#0"0(22@110"This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.293054515#18446744073709551615#0#0(6@51"/Users/timgrantdavies/Desktop/My App/MainWindow.xib293054457#19#0#19#0#0"0(0#0#51"/Users/timgrantdavies/Desktop/My App/MainWindow.xib30118316435898436#465"    cd "/Users/timgrantdavies/Desktop/My App"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/MainWindow.nib" "/Users/timgrantdavies/Desktop/My App/MainWindow.xib"0#
+
+CCompileXIB "/Users/timgrantdavies/My App/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ActionButton.png" ActionButton.png
+s293054515.808650
+e293054515.839132
+r1
+xCopyPNGFile
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ActionButton.png
+xActionButton.png
+lSLF07#2@79"CopyPNGFile "build/Debug-iphoneos/My App.app/ActionButton.png" ActionButton.png293054515#293054515#0(0"0(0#0#53"/Users/timgrantdavies/Desktop/My App/ActionButton.png4300739032#571"    cd "/Users/timgrantdavies/Desktop/My App"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/timgrantdavies/Desktop/My App/ActionButton.png" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ActionButton.png"0#
+
+CCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/back.png" back.png
+s293054515.839227
+e293054515.869047
+r1
+xCopyPNGFile
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/back.png
+xback.png
+lSLF07#2@63"CopyPNGFile "build/Debug-iphoneos/My App.app/back.png" back.png293054515#293054515#0(0"0(0#0#45"/Users/timgrantdavies/Desktop/My App/back.png4300739032#555"    cd "/Users/timgrantdavies/Desktop/My App"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/timgrantdavies/Desktop/My App/back.png" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/back.png"0#
+
+CCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/bg.png" bg.png
+s293054515.410058
+e293054515.808546
+r1
+xCopyPNGFile
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/bg.png
+xbg.png
+lSLF07#2@59"CopyPNGFile "build/Debug-iphoneos/My App.app/bg.png" bg.png293054515#293054515#0(0"0(0#0#43"/Users/timgrantdavies/Desktop/My App/bg.png4300739032#551"    cd "/Users/timgrantdavies/Desktop/My App"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/timgrantdavies/Desktop/My App/bg.png" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/bg.png"0#
+
+CCopyPNGFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/nav.png" nav.png
+s293054515.869149
+e293054515.961497
+r1
+xCopyPNGFile
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/nav.png
+xnav.png
+lSLF07#2@61"CopyPNGFile "build/Debug-iphoneos/My App.app/nav.png" nav.png293054515#293054515#0(0"0(0#0#44"/Users/timgrantdavies/Desktop/My App/nav.png4300739032#553"    cd "/Users/timgrantdavies/Desktop/My App"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/timgrantdavies/Desktop/My App/nav.png" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/nav.png"0#
+
+CCopyPNGFile "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/ActionButton.png" ActionButton.png
+r0
+
+CCopyPNGFile "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/back.png" back.png
+r0
+
+CCopyPNGFile "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/bg.png" bg.png
+r0
+
+CCopyPNGFile "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/nav.png" nav.png
+r0
+
+CCpResource "build/Debug-iphoneos/My App.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s293054515.372107
+e293054515.408915
+r1
+xCpResource
+xbuild/Debug-iphoneos/My App.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist293054515#293054515#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist4300739032#479"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app"0#
+
+CCreateUniversalBinary "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App" normal "armv6 armv7"
+s293054517.816561
+e293054517.864417
+r1
+xCreateUniversalBinary
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary "build/Debug-iphoneos/My App.app/My App" normal "armv6 armv7"293054517#293054517#0(0"0(0#0#48"/Users/timgrantdavies/Desktop/My App/armv6 armv74300739032#510"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App" "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App" -output "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App"0#
+
+CCreateUniversalBinary "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/My App" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app.dSYM" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App"
+s293054517.864511
+e293054517.884954
+r1
+xGenerateDSYMFile
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app.dSYM
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App
+lSLF07#2@96"GenerateDSYMFile "build/Debug-iphoneos/My App.app.dSYM" "build/Debug-iphoneos/My App.app/My App"293054517#293054517#0(0"0(0#0#75"/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App4300739032#359"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/My App" -o "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app.dSYM" "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/My App"
+r0
+
+CLd "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App" normal armv6
+s293054517.263225
+e293054517.816462
+r1
+xLd
+x/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App
+xnormal
+xarmv6
+lSLF07#2@116"Link /Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App293054517#293054517#0(0"0(0#0#0"4300739032#871"    cd "/Users/timgrantdavies/Desktop/My App"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" -filelist "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App"0#
+
+CLd "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App" normal armv7
+s293054517.376403
+e293054517.800092
+r1
+xLd
+x/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App
+xnormal
+xarmv7
+lSLF07#2@116"Link /Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App293054517#293054517#0(0"0(0#0#0"4300739032#871"    cd "/Users/timgrantdavies/Desktop/My App"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" -filelist "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App"0#
+
+CLd "/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv6/My App" normal armv6
+r0
+
+CLd "/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/Objects-normal/armv7/My App" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/Info.plist" My_App-Info.plist
+s293054515.373050
+e293054515.409226
+r1
+xProcessInfoPlistFile
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/Info.plist
+xMy_App-Info.plist
+lSLF07#2@25"Process My_App-Info.plist293054515#293054515#0(0"0(0#0#54"/Users/timgrantdavies/Desktop/My App/My_App-Info.plist4300739032#558"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility My_App-Info.plist -genpkginfo "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/ResourceRules.plist" -o "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/Info.plist" My_App-Info.plist
+r0
+
+CProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cbgthaexfjorgkbchsmngpgscqkc/My_App_Prefix.pch.gch My_App_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cfjwtdpyeltqjeegktqvmyjdgsvo/My_App_Prefix.pch.gch My_App_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s293054515.964649
+e293054517.151626
+r1
+xProcessPCH
+x/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cfjwtdpyeltqjeegktqvmyjdgsvo/My_App_Prefix.pch.gch
+xMy_App_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile My_App_Prefix.pch293054515#293054517#0(0"0(0#0#54"/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch4300739032#1603"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources/armv6" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources" -c "/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch" -o /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-cfjwtdpyeltqjeegktqvmyjdgsvo/My_App_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-gzaqwcijudpxczdswahxqzphnzvx/My_App_Prefix.pch.gch My_App_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-handtpsdermwjfajijsqhkqlnquf/My_App_Prefix.pch.gch My_App_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s293054515.965676
+e293054517.095845
+r1
+xProcessPCH
+x/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-handtpsdermwjfajijsqhkqlnquf/My_App_Prefix.pch.gch
+xMy_App_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile My_App_Prefix.pch293054515#293054517#0(0"0(0#0#54"/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch4300739032#1603"    cd "/Users/timgrantdavies/Desktop/My App"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-generated-files.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-own-target-headers.hmap" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-all-target-headers.hmap" -iquote "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App-project-headers.hmap" "-F/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos" "-I/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/include" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources/armv7" "-I/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/DerivedSources" -c "/Users/timgrantdavies/Desktop/My App/My_App_Prefix.pch" -o /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_App_Prefix-handtpsdermwjfajijsqhkqlnquf/My_App_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/timgrantdavies/Library/MobileDevice/Provisioning Profiles/7CBACC5B-FEE5-4DBE-85A2-DDD2E5797F51.mobileprovision" "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision"
+s293054517.885057
+e293054517.886342
+r1
+xProcessProductPackaging
+x/Users/timgrantdavies/Library/MobileDevice/Provisioning Profiles/7CBACC5B-FEE5-4DBE-85A2-DDD2E5797F51.mobileprovision
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/timgrantdavies/Library/MobileDevice/Provisioning Profiles/7CBACC5B-FEE5-4DBE-85A2-DDD2E5797F51.mobileprovision" "build/Debug-iphoneos/My App.app/embedded.mobileprovision"293054517#293054517#0(0"0(0#0#93"/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision4300739032#431"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/timgrantdavies/Library/MobileDevice/Provisioning Profiles/7CBACC5B-FEE5-4DBE-85A2-DDD2E5797F51.mobileprovision" -o "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/timgrantdavies/Library/MobileDevice/Provisioning Profiles/7CBACC5B-FEE5-4DBE-85A2-DDD2E5797F51.mobileprovision" "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent"
+s293054517.890931
+e293054517.926058
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent
+lSLF07#2@174"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "build/My App.build/Debug-iphoneos/My App.build/My App.xcent"293054517#293054517#0(0"0(0#0#96"/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent4300739032#429"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/timgrantdavies/Desktop/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/timgrantdavies/My App/build/My App.build/Debug-iphoneos/My App.build/My App.xcent"
+r0
+
+CTouch "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app"
+s293054517.886405
+e293054517.890834
+r1
+xTouch
+x/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app
+lSLF07#2@74"Touch /Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app293054517#293054517#0(0"0(0#0#0"4300739032#263"    cd "/Users/timgrantdavies/Desktop/My App"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/timgrantdavies/Desktop/My App/build/Debug-iphoneos/My App.app"0#
+
+CTouch "/Users/timgrantdavies/My App/build/Debug-iphoneos/My App.app"
+r0
+
